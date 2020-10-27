@@ -1,0 +1,636 @@
+[
+  {
+    "name": "jet-assisted-chevy",
+    "episode": "Special\u20131",
+    "season": "Pilots season"
+  },
+  {
+    "name": "biscuit-bazooka",
+    "episode": "Special\u20132",
+    "season": "Pilots season"
+  },
+  {
+    "name": "poppy-seed-drug-test",
+    "episode": "Special\u20133",
+    "season": "Pilots season"
+  },
+  { "name": "exploding-toilet", "episode": "1", "season": "2003 season" },
+  {
+    "name": "cell-phone-destroys-gas-station",
+    "episode": "2",
+    "season": "2003 season"
+  },
+  { "name": "barrel-of-bricks", "episode": "3", "season": "2003 season" },
+  { "name": "penny-drop", "episode": "4", "season": "2003 season" },
+  { "name": "buried-alive", "episode": "5", "season": "2003 season" },
+  {
+    "name": "lightning-strikes-tongue-piercings",
+    "episode": "6",
+    "season": "2003 season"
+  },
+  { "name": "stinky-car", "episode": "7", "season": "2003 season" },
+  { "name": "alcatraz-escape", "episode": "8", "season": "2003 season" },
+  {
+    "name": "explosive-decompression",
+    "episode": "1",
+    "season": "2004 season"
+  },
+  { "name": "chicken-gun", "episode": "2", "season": "2004 season" },
+  { "name": "break-step-bridge", "episode": "3", "season": "2004 season" },
+  { "name": "sinking-titanic", "episode": "4", "season": "2004 season" },
+  { "name": "buried-in-concrete", "episode": "5", "season": "2004 season" },
+  { "name": "myths-revisited", "episode": "6", "season": "2004 season" },
+  {
+    "name": "scuba-diver-and-car-capers",
+    "episode": "7",
+    "season": "2004 season"
+  },
+  { "name": "ancient-death-ray", "episode": "8", "season": "2004 season" },
+  {
+    "name": "elevator-of-death-levitation-machine",
+    "episode": "9",
+    "season": "2004 season"
+  },
+  {
+    "name": "beat-the-radar-detector",
+    "episode": "10",
+    "season": "2004 season"
+  },
+  { "name": "quicksand", "episode": "11", "season": "2004 season" },
+  { "name": "exploding-jawbreaker", "episode": "12", "season": "2004 season" },
+  { "name": "pingpong-rescue", "episode": "13", "season": "2004 season" },
+  { "name": "boom-lift-catapult", "episode": "14", "season": "2004 season" },
+  { "name": "exploding-house", "episode": "15", "season": "2004 season" },
+  {
+    "name": "ming-dynasty-astronaut",
+    "episode": "16",
+    "season": "2004 season"
+  },
+  {
+    "name": "viewers-choice-christmas-special",
+    "episode": "Special\u20131",
+    "season": "2004 season"
+  },
+  {
+    "name": "buster-special",
+    "episode": "Special\u20131",
+    "season": "2005 season"
+  },
+  {
+    "name": "ultimate-mythbusters",
+    "episode": "Special\u20132",
+    "season": "2005 season"
+  },
+  { "name": "brown-note", "episode": "1", "season": "2005 season" },
+  { "name": "salsa-escape", "episode": "2", "season": "2005 season" },
+  { "name": "exploding-port-a-potty", "episode": "3", "season": "2005 season" },
+  { "name": "is-yawning-contagious", "episode": "4", "season": "2005 season" },
+  {
+    "name": "mythbusters-outtakes",
+    "episode": "Special\u20133",
+    "season": "2005 season"
+  },
+  { "name": "cooling-a-six-pack", "episode": "5", "season": "2005 season" },
+  { "name": "son-of-a-gun", "episode": "6", "season": "2005 season" },
+  {
+    "name": "shop-til-you-drop",
+    "episode": "Special\u20134",
+    "season": "2005 season"
+  },
+  {
+    "name": "mythbusters-revealed",
+    "episode": "Special\u20135",
+    "season": "2005 season"
+  },
+  {
+    "name": "hollywood-on-trial",
+    "episode": "Special\u20136",
+    "season": "2005 season"
+  },
+  { "name": "breaking-glass", "episode": "7", "season": "2005 season" },
+  { "name": "jet-pack", "episode": "8", "season": "2005 season" },
+  { "name": "killer-brace-position", "episode": "9", "season": "2005 season" },
+  { "name": "bulletproof-water", "episode": "10", "season": "2005 season" },
+  {
+    "name": "jaws-special",
+    "episode": "Special\u20137",
+    "season": "2005 season"
+  },
+  { "name": "border-slingshot", "episode": "11", "season": "2005 season" },
+  { "name": "killer-tissue-box", "episode": "12", "season": "2005 season" },
+  {
+    "name": "escape-slide-parachute",
+    "episode": "13",
+    "season": "2005 season"
+  },
+  { "name": "mythbusters-revisited", "episode": "14", "season": "2005 season" },
+  {
+    "name": "chinese-invasion-alarm",
+    "episode": "15",
+    "season": "2005 season"
+  },
+  { "name": "confederate-rocket", "episode": "16", "season": "2005 season" },
+  { "name": "vodka-myths", "episode": "17", "season": "2005 season" },
+  {
+    "name": "steel-toe-cap-amputation",
+    "episode": "18",
+    "season": "2005 season"
+  },
+  {
+    "name": "seasickness-kill-or-cure",
+    "episode": "19",
+    "season": "2005 season"
+  },
+  { "name": "paper-crossbow", "episode": "1", "season": "2006 season" },
+  { "name": "shredded-plane", "episode": "2", "season": "2006 season" },
+  { "name": "archimedes-death-ray", "episode": "3", "season": "2006 season" },
+  { "name": "helium-football", "episode": "4", "season": "2006 season" },
+  { "name": "franklins-kite", "episode": "5", "season": "2006 season" },
+  { "name": "cell-phones-on-planes", "episode": "6", "season": "2006 season" },
+  { "name": "bullets-fired-up", "episode": "7", "season": "2006 season" },
+  { "name": "myths-re-opened", "episode": "8", "season": "2006 season" },
+  { "name": "mind-control", "episode": "9", "season": "2006 season" },
+  { "name": "exploding-pants", "episode": "10", "season": "2006 season" },
+  {
+    "name": "crimes-and-myth-demeanors-1",
+    "episode": "11",
+    "season": "2006 season"
+  },
+  { "name": "steam-cannon", "episode": "12", "season": "2006 season" },
+  { "name": "whirlpool-snowplow", "episode": "13", "season": "2006 season" },
+  { "name": "mentos-and-soda", "episode": "14", "season": "2006 season" },
+  { "name": "shattering-subwoofer", "episode": "15", "season": "2006 season" },
+  {
+    "name": "crimes-and-myth-demeanors-2",
+    "episode": "16",
+    "season": "2006 season"
+  },
+  { "name": "earthquake-machine", "episode": "17", "season": "2006 season" },
+  { "name": "deadly-straw", "episode": "18", "season": "2006 season" },
+  {
+    "name": "mega-movie-myths",
+    "episode": "Special\u20131",
+    "season": "2006 season"
+  },
+  { "name": "killer-cable-snaps", "episode": "19", "season": "2006 season" },
+  { "name": "air-cylinder-rocket", "episode": "20", "season": "2006 season" },
+  { "name": "more-myths-revisited", "episode": "21", "season": "2006 season" },
+  { "name": "exploding-lighter", "episode": "22", "season": "2006 season" },
+  { "name": "concrete-glider", "episode": "23", "season": "2006 season" },
+  { "name": "firearms-folklore", "episode": "24", "season": "2006 season" },
+  { "name": "anti-gravity-device", "episode": "25", "season": "2006 season" },
+  {
+    "name": "holiday-special",
+    "episode": "Special\u20132",
+    "season": "2006 season"
+  },
+  { "name": "22000-foot-fall", "episode": "26", "season": "2006 season" },
+  { "name": "hindenberg-mystery", "episode": "1", "season": "2007 season" },
+  { "name": "hindenburg-mystery", "episode": "1", "season": "2007 season" },
+  { "name": "pirate-special", "episode": "2", "season": "2007 season" },
+  { "name": "underwater-car", "episode": "3", "season": "2007 season" },
+  { "name": "speed-cameras", "episode": "4", "season": "2007 season" },
+  { "name": "dog-myths", "episode": "5", "season": "2007 season" },
+  { "name": "more-myths-revisited", "episode": "6", "season": "2007 season" },
+  { "name": "more-myths-reopened", "episode": "6", "season": "2007 season" },
+  {
+    "name": "voice-flame-extinguisher",
+    "episode": "7",
+    "season": "2007 season"
+  },
+  { "name": "birds-in-a-truck", "episode": "8", "season": "2007 season" },
+  { "name": "walking-on-water", "episode": "9", "season": "2007 season" },
+  { "name": "western-myths", "episode": "10", "season": "2007 season" },
+  { "name": "big-rig-myths", "episode": "11", "season": "2007 season" },
+  { "name": "grenades-and-guts", "episode": "12", "season": "2007 season" },
+  { "name": "snow-special", "episode": "13", "season": "2007 season" },
+  { "name": "baseball-myths", "episode": "14", "season": "2007 season" },
+  { "name": "viewers-special", "episode": "15", "season": "2007 season" },
+  { "name": "red-rag-to-a-bull", "episode": "16", "season": "2007 season" },
+  { "name": "superhero-hour", "episode": "17", "season": "2007 season" },
+  { "name": "myth-revolution", "episode": "18", "season": "2007 season" },
+  { "name": "trailblazers", "episode": "19", "season": "2007 season" },
+  {
+    "name": "exploding-water-heater",
+    "episode": "20",
+    "season": "2007 season"
+  },
+  {
+    "name": "special-supersized-myths",
+    "episode": "21",
+    "season": "2007 season"
+  },
+  {
+    "name": "shooting-fish-in-a-barrel",
+    "episode": "22",
+    "season": "2007 season"
+  },
+  { "name": "pirates-2", "episode": "23", "season": "2007 season" },
+  { "name": "confederate-steam-gun", "episode": "24", "season": "2007 season" },
+  { "name": "airplane-hour", "episode": "25", "season": "2007 season" },
+  { "name": "james-bond-part-1", "episode": "1", "season": "2008 season" },
+  { "name": "lead-balloon", "episode": "2", "season": "2008 season" },
+  {
+    "name": "airplane-on-a-conveyor-belt",
+    "episode": "3",
+    "season": "2008 season"
+  },
+  { "name": "james-bond-part-2", "episode": "4", "season": "2008 season" },
+  { "name": "viewers-special-2", "episode": "5", "season": "2008 season" },
+  { "name": "macgyver-myths", "episode": "6", "season": "2008 season" },
+  { "name": "alaska-special", "episode": "7", "season": "2008 season" },
+  { "name": "shark-week-special-2", "episode": "8", "season": "2008 season" },
+  { "name": "exploding-steak", "episode": "9", "season": "2008 season" },
+  { "name": "nasa-moon-landing", "episode": "10", "season": "2008 season" },
+  { "name": "viral-hour", "episode": "11", "season": "2008 season" },
+  { "name": "phone-book-friction", "episode": "12", "season": "2008 season" },
+  { "name": "water-stun-gun", "episode": "13", "season": "2008 season" },
+  { "name": "blind-driving", "episode": "14", "season": "2008 season" },
+  { "name": "ninjas-2", "episode": "15", "season": "2008 season" },
+  { "name": "alcohol-myths", "episode": "16", "season": "2008 season" },
+  { "name": "motorcycle-flip", "episode": "17", "season": "2008 season" },
+  { "name": "coffin-punch", "episode": "18", "season": "2008 season" },
+  { "name": "end-with-a-bang", "episode": "19", "season": "2008 season" },
+  {
+    "name": "viewer-special-threequel",
+    "episode": "Special\u20131",
+    "season": "2008 season"
+  },
+  { "name": "demolition-derby", "episode": "1", "season": "2009 season" },
+  { "name": "alaska-special", "episode": "2", "season": "2009 season" },
+  { "name": "alaska-special-2", "episode": "2", "season": "2009 season" },
+  { "name": "banana-slip-double-dip", "episode": "3", "season": "2009 season" },
+  { "name": "youtube-special", "episode": "4", "season": "2009 season" },
+  { "name": "swimming-in-syrup", "episode": "5", "season": "2009 season" },
+  { "name": "exploding-bumper", "episode": "6", "season": "2009 season" },
+  { "name": "seesaw-saga", "episode": "7", "season": "2009 season" },
+  { "name": "thermite-vs-ice", "episode": "8", "season": "2009 season" },
+  { "name": "prison-escape", "episode": "9", "season": "2009 season" },
+  { "name": "curving-bullets", "episode": "10", "season": "2009 season" },
+  { "name": "car-vs-rain", "episode": "11", "season": "2009 season" },
+  { "name": "knock-your-socks-off", "episode": "12", "season": "2009 season" },
+  { "name": "duct-tape-hour", "episode": "13", "season": "2009 season" },
+  {
+    "name": "clean-car-vs-dirty-car",
+    "episode": "14",
+    "season": "2009 season"
+  },
+  { "name": "greased-lightning", "episode": "15", "season": "2009 season" },
+  { "name": "hurricane-windows", "episode": "16", "season": "2009 season" },
+  { "name": "crash-and-burn", "episode": "17", "season": "2009 season" },
+  { "name": "myth-evolution", "episode": "18", "season": "2009 season" },
+  { "name": "dumpster-diving", "episode": "19", "season": "2009 season" },
+  { "name": "antacid-jail-break", "episode": "20", "season": "2009 season" },
+  { "name": "unarmed-and-unharmed", "episode": "21", "season": "2009 season" },
+  { "name": "hidden-nasties", "episode": "22", "season": "2009 season" },
+  { "name": "mini-myth-mayhem", "episode": "23", "season": "2009 season" },
+  { "name": "boomerang-bullet", "episode": "1", "season": "2010 season" },
+  { "name": "soda-cup-killer", "episode": "2", "season": "2010 season" },
+  { "name": "dive-to-survive", "episode": "3", "season": "2010 season" },
+  { "name": "spy-car-escape", "episode": "4", "season": "2010 season" },
+  { "name": "bottle-bash", "episode": "5", "season": "2010 season" },
+  { "name": "no-pain-no-gain", "episode": "6", "season": "2010 season" },
+  { "name": "mythssion-control", "episode": "7", "season": "2010 season" },
+  { "name": "duct-tape-hour-2", "episode": "8", "season": "2010 season" },
+  { "name": "waterslide-wipeout", "episode": "9", "season": "2010 season" },
+  { "name": "fireball-stun-gun", "episode": "10", "season": "2010 season" },
+  { "name": "flu-fiction", "episode": "11", "season": "2010 season" },
+  {
+    "name": "top-25-moments",
+    "episode": "Special\u20131",
+    "season": "2010 season"
+  },
+  { "name": "hair-of-the-dog", "episode": "12", "season": "2010 season" },
+  { "name": "storm-chasing-myths", "episode": "13", "season": "2010 season" },
+  { "name": "cold-feet", "episode": "14", "season": "2010 season" },
+  { "name": "tablecloth-chaos", "episode": "15", "season": "2010 season" },
+  { "name": "arrow-machine-gun", "episode": "16", "season": "2010 season" },
+  { "name": "mini-myth-madness", "episode": "17", "season": "2010 season" },
+  { "name": "reverse-engineering", "episode": "18", "season": "2010 season" },
+  {
+    "name": "inverted-underwater-car",
+    "episode": "19",
+    "season": "2010 season"
+  },
+  { "name": "bug-special", "episode": "20", "season": "2010 season" },
+  { "name": "presidents-challenge", "episode": "21", "season": "2010 season" },
+  { "name": "green-hornet-special", "episode": "22", "season": "2010 season" },
+  { "name": "operation-valkyrie", "episode": "23", "season": "2010 season" },
+  {
+    "name": "mission-impossible-mask",
+    "episode": "1",
+    "season": "2011 season"
+  },
+  { "name": "blue-ice", "episode": "2", "season": "2011 season" },
+  { "name": "running-on-water", "episode": "3", "season": "2011 season" },
+  { "name": "bubble-trouble", "episode": "4", "season": "2011 season" },
+  { "name": "torpedo-tastic", "episode": "5", "season": "2011 season" },
+  { "name": "blow-your-own-sail", "episode": "6", "season": "2011 season" },
+  { "name": "spy-car-2", "episode": "7", "season": "2011 season" },
+  { "name": "dodge-a-bullet", "episode": "8", "season": "2011 season" },
+  { "name": "fixing-a-flat", "episode": "9", "season": "2011 season" },
+  {
+    "name": "planes-trains-and-automobiles",
+    "episode": "Special\u20131",
+    "season": "2011 season"
+  },
+  { "name": "let-there-be-light", "episode": "10", "season": "2011 season" },
+  { "name": "paper-armor", "episode": "11", "season": "2011 season" },
+  { "name": "bikes-and-bazookas", "episode": "12", "season": "2011 season" },
+  { "name": "newtons-crane-cradle", "episode": "13", "season": "2011 season" },
+  { "name": "walk-a-straight-line", "episode": "14", "season": "2011 season" },
+  { "name": "duct-tape-plane", "episode": "15", "season": "2011 season" },
+  { "name": "flying-guillotine", "episode": "16", "season": "2011 season" },
+  { "name": "drain-disaster", "episode": "17", "season": "2011 season" },
+  {
+    "name": "location-location-location",
+    "episode": "Special\u20132",
+    "season": "2011 season"
+  },
+  {
+    "name": "wet-and-wild",
+    "episode": "Special\u20133",
+    "season": "2011 season"
+  },
+  { "name": "wheel-of-mythfortune", "episode": "18", "season": "2011 season" },
+  { "name": "toilet-bomb", "episode": "19", "season": "2011 season" },
+  { "name": "duct-tape-island", "episode": "1", "season": "2012 season" },
+  { "name": "fire-vs-ice", "episode": "2", "season": "2012 season" },
+  { "name": "square-wheels", "episode": "3", "season": "2012 season" },
+  { "name": "swinging-pirates", "episode": "4", "season": "2012 season" },
+  { "name": "battle-of-the-sexes", "episode": "5", "season": "2012 season" },
+  { "name": "driving-in-heels", "episode": "6", "season": "2012 season" },
+  { "name": "revenge-of-the-myth", "episode": "7", "season": "2012 season" },
+  { "name": "bouncing-bullet", "episode": "8", "season": "2012 season" },
+  {
+    "name": "mailbag-special",
+    "episode": "Special\u20131",
+    "season": "2012 season"
+  },
+  { "name": "bubble-pack-plunge", "episode": "9", "season": "2012 season" },
+  { "name": "duel-dilemmas", "episode": "10", "season": "2012 season" },
+  { "name": "hollywood-gunslingers", "episode": "11", "season": "2012 season" },
+  {
+    "name": "jawsome-shark-special",
+    "episode": "Special\u20132",
+    "season": "2012 season"
+  },
+  { "name": "titanic-survival", "episode": "12", "season": "2012 season" },
+  { "name": "trench-torpedo", "episode": "13", "season": "2012 season" },
+  { "name": "hail-hijinx", "episode": "14", "season": "2012 season" },
+  {
+    "name": "cliffhanger-bridge-boom",
+    "episode": "14",
+    "season": "2012 season"
+  },
+  { "name": "fright-night", "episode": "15", "season": "2012 season" },
+  { "name": "mini-myth-medley", "episode": "16", "season": "2012 season" },
+  { "name": "cannonball-chemistry", "episode": "17", "season": "2012 season" },
+  { "name": "food-fables", "episode": "18", "season": "2012 season" },
+  {
+    "name": "explosions-a-to-z",
+    "episode": "Special\u20133",
+    "season": "2012 season"
+  },
+  {
+    "name": "the-a-to-z-of-explosives",
+    "episode": "Special\u20133",
+    "season": "2012 season"
+  },
+  {
+    "name": "jato-rocket-car-mission-accomplished",
+    "episode": "1",
+    "season": "2013 season"
+  },
+  {
+    "name": "deadliest-catch-crabtastic-special",
+    "episode": "2",
+    "season": "2013 season"
+  },
+  {
+    "name": "down-and-dirty-earthquake-survival",
+    "episode": "3",
+    "season": "2013 season"
+  },
+  { "name": "indy-car-special", "episode": "4", "season": "2013 season" },
+  {
+    "name": "battle-of-the-sexes-round-2",
+    "episode": "5",
+    "season": "2013 season"
+  },
+  { "name": "motorcycle-water-ski", "episode": "6", "season": "2013 season" },
+  {
+    "name": "hypermiling-crash-cushions",
+    "episode": "7",
+    "season": "2013 season"
+  },
+  { "name": "duct-tape-canyon", "episode": "8", "season": "2013 season" },
+  {
+    "name": "painting-with-explosives-bifurcated-boat",
+    "episode": "9",
+    "season": "2013 season"
+  },
+  { "name": "breaking-bad-special", "episode": "10", "season": "2013 season" },
+  { "name": "zombie-special", "episode": "11", "season": "2013 season" },
+  { "name": "star-wars-special", "episode": "1", "season": "2014 season" },
+  { "name": "moonshiner-myths", "episode": "2", "season": "2014 season" },
+  {
+    "name": "hollywood-car-crash-cliches",
+    "episode": "3",
+    "season": "2014 season"
+  },
+  {
+    "name": "car-chase-chaos-animal-antics",
+    "episode": "4",
+    "season": "2014 season"
+  },
+  {
+    "name": "car-chase-chaos-animal-avoidance",
+    "episode": "4",
+    "season": "2014 season"
+  },
+  { "name": "do-try-this-at-home", "episode": "5", "season": "2014 season" },
+  { "name": "mythssion-impossible", "episode": "6", "season": "2014 season" },
+  { "name": "bullet-baloney", "episode": "7", "season": "2014 season" },
+  {
+    "name": "supersonic-ping-pong-ice-cannon",
+    "episode": "8",
+    "season": "2014 season"
+  },
+  { "name": "fire-in-the-hole", "episode": "9", "season": "2014 season" },
+  { "name": "household-disasters", "episode": "10", "season": "2014 season" },
+  { "name": "commercial-myths", "episode": "11", "season": "2014 season" },
+  {
+    "name": "apple-bobbing-bungee-tennis-wing-walk",
+    "episode": "11",
+    "season": "2014 season"
+  },
+  { "name": "road-rage", "episode": "12", "season": "2014 season" },
+  { "name": "driving-this-crazy", "episode": "12", "season": "2014 season" },
+  { "name": "laws-of-attraction", "episode": "13", "season": "2014 season" },
+  { "name": "traffic-tricks", "episode": "14", "season": "2014 season" },
+  { "name": "plane-boarding", "episode": "15", "season": "2014 season" },
+  {
+    "name": "plane-boarding-bite-the-bullet",
+    "episode": "15",
+    "season": "2014 season"
+  },
+  { "name": "the-simpsons-special", "episode": "1", "season": "2015 season" },
+  { "name": "indiana-jones-special", "episode": "2", "season": "2015 season" },
+  {
+    "name": "the-busters-of-the-lost-myths",
+    "episode": "2",
+    "season": "2015 season"
+  },
+  { "name": "a-team-special", "episode": "3", "season": "2015 season" },
+  { "name": "video-game-special", "episode": "4", "season": "2015 season" },
+  { "name": "transformers", "episode": "5", "season": "2015 season" },
+  { "name": "san-francisco-drift", "episode": "6", "season": "2015 season" },
+  {
+    "name": "blow-it-out-of-the-water",
+    "episode": "7",
+    "season": "2015 season"
+  },
+  { "name": "flights-of-fantasy", "episode": "8", "season": "2015 season" },
+  { "name": "accidental-ammo", "episode": "9", "season": "2015 season" },
+  { "name": "dangerous-driving", "episode": "10", "season": "2015 season" },
+  { "name": "supernatural-shooters", "episode": "11", "season": "2015 season" },
+  { "name": "unfinished-business", "episode": "12", "season": "2015 season" },
+  { "name": "mythbusters-vs-jaws", "episode": "13", "season": "2015 season" },
+  { "name": "star-wars-2", "episode": "14", "season": "2015 season" },
+  {
+    "name": "star-wars-the-myths-strike-back",
+    "episode": "14",
+    "season": "2015 season"
+  },
+  { "name": "mythbusters-revealed", "episode": "1", "season": "2016 season" },
+  {
+    "name": "mythbusters-revealed-the-behind-the-scenes-season-opener",
+    "episode": "1",
+    "season": "2016 season"
+  },
+  { "name": "the-explosion-special", "episode": "2", "season": "2016 season" },
+  { "name": "tanker-crush", "episode": "3", "season": "2016 season" },
+  { "name": "cooking-chaos", "episode": "4", "season": "2016 season" },
+  { "name": "driven-to-destruction", "episode": "5", "season": "2016 season" },
+  { "name": "volunteer-special", "episode": "6", "season": "2016 season" },
+  {
+    "name": "failure-is-not-an-option",
+    "episode": "7",
+    "season": "2016 season"
+  },
+  { "name": "rocketman", "episode": "8", "season": "2016 season" },
+  { "name": "rocketmen", "episode": "8", "season": "2016 season" },
+  { "name": "reddit-special", "episode": "9", "season": "2016 season" },
+  { "name": "grand-finale", "episode": "10", "season": "2016 season" },
+  {
+    "name": "the-mythbusters-grand-finale",
+    "episode": "10",
+    "season": "2016 season"
+  },
+  { "name": "reunion", "episode": "11", "season": "2016 season" },
+  {
+    "name": "mythbusters-the-reunion",
+    "episode": "11",
+    "season": "2016 season"
+  },
+  { "name": "duct-tape-the-return", "episode": "12", "season": "2016 season" },
+  { "name": "heads-will-roll", "episode": "1", "season": "2017 season" },
+  { "name": "chimney-cannon", "episode": "2", "season": "2017 season" },
+  {
+    "name": "earthquake-water-heater",
+    "episode": "3",
+    "season": "2017 season"
+  },
+  { "name": "rock-n-roll-road-rage", "episode": "4", "season": "2017 season" },
+  { "name": "invisible-assassins", "episode": "5", "season": "2017 season" },
+  { "name": "dead-body-double", "episode": "6", "season": "2017 season" },
+  { "name": "fire-arrow-vs-gas-tank", "episode": "1", "season": "2018 season" },
+  {
+    "name": "fiery-arrow-vs-gas-tank",
+    "episode": "1",
+    "season": "2018 season"
+  },
+  { "name": "pane-in-the-glass", "episode": "2", "season": "2018 season" },
+  { "name": "wild-wild-west", "episode": "3", "season": "2018 season" },
+  { "name": "spike-in-the-road", "episode": "4", "season": "2018 season" },
+  { "name": "geezer-geyser", "episode": "4", "season": "2018 season" },
+  { "name": "dynamite-deposit", "episode": "5", "season": "2018 season" },
+  {
+    "name": "backseat-getaway-driver",
+    "episode": "6",
+    "season": "2018 season"
+  },
+  {
+    "name": "knock-me-over-with-a-feather",
+    "episode": "6",
+    "season": "2018 season"
+  },
+  { "name": "electrified-escape", "episode": "7", "season": "2018 season" },
+  { "name": "dropping-a-bomb", "episode": "8", "season": "2018 season" },
+  {
+    "name": "best-animal-myths",
+    "episode": "Special\u20131",
+    "season": "Specials season"
+  },
+  {
+    "name": "best-electric-myths",
+    "episode": "Special\u20132",
+    "season": "Specials season"
+  },
+  {
+    "name": "best-explosions",
+    "episode": "Special\u20133",
+    "season": "Specials season"
+  },
+  {
+    "name": "young-scientist-special",
+    "episode": "Special\u20134",
+    "season": "Specials season"
+  },
+  {
+    "name": "car-conundrum",
+    "episode": "Special\u20135",
+    "season": "Specials season"
+  },
+  {
+    "name": "busters-cut-alcohol-myths",
+    "episode": "Special\u20136",
+    "season": "Specials season"
+  },
+  {
+    "name": "busters-cut-duct-tape-hour-2",
+    "episode": "Special\u20137",
+    "season": "Specials season"
+  },
+  {
+    "name": "busters-cut-knock-your-socks-off",
+    "episode": "Special\u20138",
+    "season": "Specials season"
+  },
+  {
+    "name": "busters-cut-viewer-special-threequel",
+    "episode": "Special\u20139",
+    "season": "Specials season"
+  },
+  {
+    "name": "busters-cut-bottle-bash",
+    "episode": "Special\u201310",
+    "season": "Specials season"
+  },
+  {
+    "name": "demolition-derby-hollywood-havoc",
+    "episode": "Special\u201311",
+    "season": "Specials season"
+  },
+  {
+    "name": "demolition-derby-car-chaos",
+    "episode": "Special\u201312",
+    "season": "Specials season"
+  },
+  {
+    "name": "blast-from-the-past",
+    "episode": "Special\u201313",
+    "season": "Specials season"
+  }
+]
