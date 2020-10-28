@@ -1,46 +1,63 @@
 <template>
   <div class="container">
-    <h1>{{ code }}</h1>
+    <h1 id="code" class="animate__animated animate__faster">{{ code }}</h1>
+    <p>From episode {{ episode }} of {{ season }}.</p>
   </div>
 </template>
 
 <script>
+import "animate.css";
+import ClipboardJS from "clipboard";
 import codes from "../assets/mythbusters.json";
-let pure_codes = codes.map((entry) => entry.name);
 
 export default {
   name: "CodeHeader",
   data: () => {
     return {
       code: null,
+      episode: null,
+      season: null,
     };
   },
   created() {
-    // Generate a random one
-    this.code = this.new_code();
+    // Generate a random code on start
+    this.new_code();
 
     // Bing keystrokes
-    window.addEventListener("keydown", (e) => {
-      switch (e.keyCode) {
-        case 32: // Space
-          this.code = this.new_code();
+    window.addEventListener("keydown", (event) => {
+      switch (event.key) {
+        case " ":
+          this.new_code();
           break;
-        case 91: // Command
+        case "Meta":
+        case "Control":
           this.super_is_down = true;
           break;
-        case 67: // C
+        case "c":
           if (this.super_is_down) {
-            // Trigger copy
-            console.log("Trigger Copy");
+            // Copy to clipboard
+            var fakeElement = document.createElement("button");
+            new ClipboardJS(fakeElement, {
+              text: () => this.code,
+            });
+            fakeElement.click();
+            fakeElement.remove();
+            // Add animate on header
+            const code_element = document.querySelector("#code");
+            code_element.classList.add("animate__tada");
+            code_element.addEventListener("animationend", () => {
+              code_element.classList.remove("animate__tada");
+            });
           }
           break;
         default:
           break;
       }
     });
-    window.addEventListener("keyup", (e) => {
-      switch (e.keyCode) {
-        case 91: // Command
+    window.addEventListener("keyup", (event) => {
+      switch (event.key) {
+        case "Meta":
+        case "Control":
           this.super_is_down = false;
           break;
         default:
@@ -50,12 +67,13 @@ export default {
   },
   methods: {
     new_code() {
-      let old_code = this.code,
-        new_code = this.code;
-      while (old_code === new_code) {
-        new_code = pure_codes[Math.floor(Math.random() * pure_codes.length)];
-      }
-      return new_code;
+      let new_code;
+      do {
+        new_code = codes[Math.floor(Math.random() * codes.length)];
+      } while (this.code === new_code.name);
+      this.code = new_code.name;
+      this.episode = new_code.episode;
+      this.season = new_code.season;
     },
   },
 };
@@ -68,5 +86,8 @@ export default {
 }
 h1 {
   font-size: 8vw;
+}
+p {
+  font-size: 2vw;
 }
 </style>
